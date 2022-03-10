@@ -7,17 +7,17 @@
 ```
 python3 main.py list
 ```
-![]('./img/list.png')
+![]('https://github.com/RAchange/watcher/raw/main/img/list.png')
 ### add source url to database
 ```
 python3 main.py add <url> [--ncam <nCam, default=1>]
 ```
-![]('./img/add.png')
+![]('https://github.com/RAchange/watcher/raw/main/img/add.png')
 ### remove source url to database
 ```
 python3 main.py remove <url>
 ```
-![]('./img/remove.png')
+![]('https://github.com/RAchange/watcher/raw/main/img/remove.png')
 ### show webcam frame stream
 ```
 python3 main.py show <url> [--camno <camNo, default=1>]
