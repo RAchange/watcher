@@ -23,3 +23,8 @@ python3 main.py remove <url>
 python3 main.py show <url> [--camno <camNo, default=1>]
 ```
 [![](https://img.youtube.com/vi/fAkMXMFLvBo/0.jpg)](https://www.youtube.com/watch?v=fAkMXMFLvBo)
+### multi-view of camera
+```
+python3 display_all.py
+```
+[![](https://img.youtube.com/vi/AI-FLv8Z6DY/0.jpg)](https://www.youtube.com/watch?v=AI-FLv8Z6DY)
