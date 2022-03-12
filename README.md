@@ -1,7 +1,8 @@
 # watcher
 ## Requirements
 * Python 3
-* modules listed in _requirements.txt_
+* PyQT5
+* Python modules listed in _requirements.txt_
 ## Usage
 ### list all source url in database
 ```
